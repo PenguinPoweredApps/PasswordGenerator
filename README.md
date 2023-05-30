@@ -1,6 +1,6 @@
 # Password Generator
 
-![Password Generator](password_generator.png)
+![Password Generator](padlock.png)
 
 Password Generator is a simple application written in Python TKinter that allows you to generate strong and secure passwords with customizable length and character options. With this application, you can quickly create passwords that meet your specific requirements and enhance your online security.
 
